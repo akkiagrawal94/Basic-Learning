@@ -1,4 +1,19 @@
 This is a test text file for github
-using the command --
+
+Here are most basic steps to begin using git with
+	Step 1)Edit the file in any editor or u can use vim(editor) in cmd 
+		After typing vim filename file will be opened
+		Now to edit the file press escape followed by i
+		After making changes press escape again to come out of editor mode
+		To save and quit use :x
+		Just to quit use :q
+	Step 2) Now we have edited the file in our local machine.To reflect the changes on the git server.Just follow the 3 steps:-
+		1)use git add filename
+		2)git commit -m " File changed"
+		3)git pust -u origin master (to save the file)
+	
+	KIDOOOO!!!!!!  You are done with your first change in GITHUB
+
+We can add fies in the repository using the command --
 		touch textfile.txt
 
