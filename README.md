@@ -7,7 +7,7 @@ Here are most basic steps to begin using git with :-
 		:q just to quit
 	Step2) Now you have edited file on your local machine .
 		To reflect the changes on the git server . There are 3 simple steps:-
-		1) git add filename (the fike u have changed)
+		1) git add filename (the file u have changed)
 		2) git commit -m "File changed"
 		3) git pust -u origin master (to save the file)
 	KUDDOOOOO !!!!!!! and you are done with your first change 
