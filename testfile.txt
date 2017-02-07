@@ -14,6 +14,6 @@ Here are most basic steps to begin using git with
 	
 	KIDOOOO!!!!!!  You are done with your first change in GITHUB
 
-We can add fies in the repository using the command --
+We can add files in the repository using the command --
 		touch textfile.txt
 
